@@ -1,34 +1,46 @@
 fileFormatVersion: 2
-guid: 8fadef3b4ef0cab4897a161b31e969d9
+guid: 46fedb92a19537a47a7ffbb404f454ce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 65731215227223647
-    second: Nut Lateral SpreadSheet_0
+      213: 4078303815700762640
+    second: nut_perfil separado_0
   - first:
-      213: -2540035728799551699
-    second: Nut Lateral SpreadSheet_1
+      213: -7244175817095343272
+    second: nut_perfil separado_1
   - first:
-      213: -5390053105604272914
-    second: Nut Lateral SpreadSheet_2
+      213: -290101455749219956
+    second: nut_perfil separado_2
   - first:
-      213: -3100374389719435301
-    second: Nut Lateral SpreadSheet_3
+      213: 374533361745221233
+    second: nut_perfil separado_3
   - first:
-      213: 5800480220424957393
-    second: Nut Lateral SpreadSheet_4
+      213: -4648868699452034232
+    second: nut_perfil separado_4
   - first:
-      213: 3053123609821968603
-    second: Nut Lateral SpreadSheet_5
+      213: -7956361144377589794
+    second: nut_perfil separado_5
   - first:
-      213: -8790568373438294034
-    second: Nut Lateral SpreadSheet_6
+      213: 9136649067037283016
+    second: nut_perfil separado_6
   - first:
-      213: -1082680155195961073
-    second: Nut Lateral SpreadSheet_7
+      213: 3999449707045231389
+    second: nut_perfil separado_7
   - first:
-      213: 2015078230504466621
-    second: Nut Lateral SpreadSheet_8
+      213: -4534048813932340330
+    second: nut_perfil separado_8
+  - first:
+      213: 5723790408271673064
+    second: nut_perfil separado_9
+  - first:
+      213: 4972055969488847204
+    second: nut_perfil separado_10
+  - first:
+      213: -8989105910962408332
+    second: nut_perfil separado_11
+  - first:
+      213: 6282702569596347406
+    second: nut_perfil separado_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -61,7 +73,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,10 +84,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 500
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +111,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -137,35 +149,35 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nut Lateral SpreadSheet_0
+      name: RABO
       rect:
         serializedVersion: 2
-        x: 9
-        y: 285
-        width: 783
-        height: 751
+        x: 2
+        y: 35
+        width: 183
+        height: 175
       alignment: 9
-      pivot: {x: 0.9881065, y: 0.20903403}
+      pivot: {x: 0.9796061, y: 0.19556192}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5ef546213689e000800000000000000
-      internalID: 65731215227223647
+      spriteID: 010d6fc66bb099830800000000000000
+      internalID: 4078303815700762640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nut Lateral SpreadSheet_1
+      name: OLHO_E
       rect:
         serializedVersion: 2
-        x: 1316
-        y: 828
-        width: 59
-        height: 13
+        x: 195
+        y: 201
+        width: 16
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +186,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d2f2a1c56faffbcd0800000000000000
-      internalID: -2540035728799551699
+      spriteID: 8539e83c974877b90800000000000000
+      internalID: -7244175817095343272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nut Lateral SpreadSheet_2
+      name: OLHO_D
       rect:
         serializedVersion: 2
-        x: 1457
-        y: 790
-        width: 59
-        height: 99
+        x: 258
+        y: 201
+        width: 15
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,42 +208,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eec57f7124fa235b0800000000000000
-      internalID: -5390053105604272914
+      spriteID: c897e35534a59fbf0800000000000000
+      internalID: -290101455749219956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nut Lateral SpreadSheet_3
+      name: CABECA
       rect:
         serializedVersion: 2
-        x: 1590
-        y: 519
-        width: 278
-        height: 492
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 300
+        y: 159
+        width: 141
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49781638, y: 0.06401525}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd7fd064be149f4d0800000000000000
-      internalID: -3100374389719435301
+      spriteID: 1765b5fab1c923500800000000000000
+      internalID: 374533361745221233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nut Lateral SpreadSheet_4
+      name: OLHO_FECHA_E
       rect:
         serializedVersion: 2
-        x: 874
+        x: 194
         y: 174
-        width: 552
-        height: 608
+        width: 16
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,20 +252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ddeb1937027f7050800000000000000
-      internalID: 5800480220424957393
+      spriteID: 843bab17c86eb7fb0800000000000000
+      internalID: -4648868699452034232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nut Lateral SpreadSheet_5
+      name: OLHO_FECHA_D
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 93
-        width: 91
-        height: 315
+        x: 257
+        y: 174
+        width: 15
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,20 +274,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd8fbca3fbfde5a20800000000000000
-      internalID: 3053123609821968603
+      spriteID: edf37ac91b3559190800000000000000
+      internalID: -7956361144377589794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nut Lateral SpreadSheet_6
+      name: CORPO
       rect:
         serializedVersion: 2
-        x: 1776
-        y: 86
-        width: 91
-        height: 315
+        x: 206
+        y: 10
+        width: 76
+        height: 116
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,52 +296,140 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee75d6783a0a10680800000000000000
-      internalID: -8790568373438294034
+      spriteID: 8c2592e1be5ebce70800000000000000
+      internalID: 9136649067037283016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nut Lateral SpreadSheet_7
+      name: ORELHA_E
       rect:
         serializedVersion: 2
-        x: 41
-        y: 13
-        width: 133
-        height: 137
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 320
+        y: 85
+        width: 50
+        height: 71
+      alignment: 9
+      pivot: {x: 0.49384156, y: 0.113968864}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f011e28922c89f0f0800000000000000
-      internalID: -1082680155195961073
+      spriteID: d1b987d8156e08730800000000000000
+      internalID: 3999449707045231389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nut Lateral SpreadSheet_8
+      name: ORELHA_D
       rect:
         serializedVersion: 2
-        x: 198
-        y: 9
-        width: 133
-        height: 137
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 392
+        y: 71
+        width: 44
+        height: 80
+      alignment: 9
+      pivot: {x: 0.48600283, y: 0.08425722}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db867db69fef6fb10800000000000000
-      internalID: 2015078230504466621
+      spriteID: 69b184b40a2d311c0800000000000000
+      internalID: -4534048813932340330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRACO_TRAZ
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 35
+        height: 72
+      alignment: 9
+      pivot: {x: 0.2712324, y: 0.9533822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e632d5ec0dfe6f40800000000000000
+      internalID: 5723790408271673064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BRACO_FRENTE
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1
+        width: 24
+        height: 75
+      alignment: 9
+      pivot: {x: 0.34602228, y: 0.93935275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4614eb8af8a400540800000000000000
+      internalID: 4972055969488847204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERNA_FRENTE
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.51759815, y: 0.91615874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474b8b0ecc7404380800000000000000
+      internalID: -8989105910962408332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PERNA_TRAZ
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.56159365, y: 0.9257062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04693a23b4a03750800000000000000
+      internalID: 6282702569596347406
       vertices: []
       indices: 
       edges: []
@@ -338,7 +438,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 307e67e2dc0295c47b4b61d53315ebab
+    spriteID: 7b76573dd4b3d574a930084e45f05e8d
     internalID: 0
     vertices: []
     indices: 
@@ -346,19 +446,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Nut Lateral SpreadSheet_0: 65731215227223647
-      Nut Lateral SpreadSheet_1: -2540035728799551699
-      Nut Lateral SpreadSheet_2: -5390053105604272914
-      Nut Lateral SpreadSheet_3: -3100374389719435301
-      Nut Lateral SpreadSheet_4: 5800480220424957393
-      Nut Lateral SpreadSheet_5: 3053123609821968603
-      Nut Lateral SpreadSheet_6: -8790568373438294034
-      Nut Lateral SpreadSheet_7: -1082680155195961073
-      Nut Lateral SpreadSheet_8: 2015078230504466621
+      BRACO_FRENTE: 4972055969488847204
+      BRACO_TRAZ: 5723790408271673064
+      CABECA: 374533361745221233
+      CORPO: 9136649067037283016
+      OLHO_D: -290101455749219956
+      OLHO_E: -7244175817095343272
+      OLHO_FECHA_D: -7956361144377589794
+      OLHO_FECHA_E: -4648868699452034232
+      ORELHA_D: -4534048813932340330
+      ORELHA_E: 3999449707045231389
+      PERNA_FRENTE: -8989105910962408332
+      PERNA_TRAZ: 6282702569596347406
+      RABO: 4078303815700762640
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
